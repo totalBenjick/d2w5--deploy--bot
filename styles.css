@@ -1,0 +1,43 @@
+*{
+	/*background-color: lightblue;*/
+}
+
+h1	{
+   /* background-color: #30518f;*/
+    color: black;
+    font-size: 18px;
+    border: 0;
+    padding: 0px;
+    font-family: sans-serif;
+    text-align: center;	
+  }
+  h2
+  {
+   /* background-color: #30518f;*/
+    color: white;
+    background-color: #222;
+    font-size: 18px;
+    border: 0;
+    padding: 0px;
+    font-family: sans-serif;
+    text-align: center;	
+    border-radius: 5px;
+    width: 90%
+  }
+
+.centradoDos{
+	display: flex;
+	justify-content: center;
+}
+
+
+input{
+	text-align: center;	
+	width: 50%;	
+	margin: 20px, auto;	
+	color: white;
+	background-color: #30518F;
+	padding:5px;
+	font-weight: bold;
+}
+
